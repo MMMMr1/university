@@ -46,6 +46,13 @@ springdoc-openapi-starter-webmvc-ui , springdoc-openapi-ui  -
 инструмент, который позволяет автоматически описывать API на основе его кода
 
 
+Endpoints:
+
+<img width="535" alt="image" src="https://github.com/MMMMr1/university/assets/95496893/a045ebb9-dad8-40ad-9ba2-1772e0ecd672">
+
+<img width="538" alt="image" src="https://github.com/MMMMr1/university/assets/95496893/304ad27a-01d8-4a9d-a6b5-625fa2ac4b56">
+
+
 Порядок сборки проекта
 
 
